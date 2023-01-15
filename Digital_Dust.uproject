@@ -14,7 +14,8 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
-				"Android"
+				"Android",
+				"HoloLens"
 			]
 		},
 		{
